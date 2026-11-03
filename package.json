@@ -1,0 +1,19 @@
+{
+  "name": "asri-master-prompt-agent-system",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "eve dev",
+    "build": "eve build",
+    "start": "eve start",
+    "info": "eve info",
+    "eval": "eve eval"
+  },
+  "dependencies": {
+    "eve": "latest"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
